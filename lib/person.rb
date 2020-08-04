@@ -5,4 +5,5 @@ class Person
    
    def initialize(atributes=nil)
      if atributes
+       
 
